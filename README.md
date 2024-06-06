@@ -54,11 +54,7 @@ Based on the transformed data and calculated measures, we will derive insights t
 
 ## Usage
 
-1. **Clone the repository**:
-
-```bash
-git clone [https://github.com/AishwaryaS-srk/HR-analysis]
-```
+1. **Clone the repository**.
 
 2. **Open Power BI Desktop**.
 
